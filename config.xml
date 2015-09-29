@@ -8,6 +8,7 @@
         Pathable
     </author>
     <content src="index.html" />
+    <preference name="phonegap-version" value="3.5.0" />
     <icon src="icon.png" />
     <access origin="*" />
     <allow-intent href="http://*/*" />
